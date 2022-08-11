@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-push-notifications](modules/push-notifications)
 - [camera]()
 - [react-native-login](modules/login)
+- [screen-archive-content](screens/archive-content)
 
 # Getting started: Frontend
 
