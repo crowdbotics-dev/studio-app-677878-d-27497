@@ -10,9 +10,9 @@ class BuildCommand(build):
 
 
 setup(
-    name="cb_django_articles",
+    name="cb_django_push_notifications",
     version="0.1",
-    packages=["articles"],
+    packages=["push_notifications"],
     install_requires=[],
     cmdclass={"build": BuildCommand},
 )
