@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [camera]()
 - [react-native-login](modules/login)
 - [screen-archive-content](screens/archive-content)
+- [react-native-articles](modules/articles)
 
 # Getting started: Frontend
 

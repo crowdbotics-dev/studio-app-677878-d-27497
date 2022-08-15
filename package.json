@@ -12,6 +12,7 @@
     "web:build": "./node_modules/.bin/webpack --config ./webpack.config.js --color --mode production"
   },
   "dependencies": {
+    "@modules/articles": "file:./modules/articles/",
     "@modules/camera": "file:./modules/camera",
     "@modules/login": "file:./modules/login/",
     "@modules/push-notifications": "file:./modules/push-notifications/",
